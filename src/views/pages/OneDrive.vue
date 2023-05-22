@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main>
-
-  </main>
+  <div>
+    <h1>OneDrive直链转换</h1>
+  </div>
 </template>
